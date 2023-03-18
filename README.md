@@ -1,6 +1,6 @@
 # Starter Pack for Vanilla Typescript
 
-[Blog By Joseph Tsegen](https://tsegsxaviers.hashnode.dev/setting-up-a-vanilla-typescript-project-the-right-way)
+🌟 [Blog By Joseph Tsegen](https://tsegsxaviers.hashnode.dev/setting-up-a-vanilla-typescript-project-the-right-way)
 
 ### Install the dependencies
 
@@ -13,3 +13,4 @@ npm install
 ```
 npm start
 ```
+Open `index.html` using Liveserver to see the changes !
